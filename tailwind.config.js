@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        secondary: "#2c3e50"
+        navbar: "#2c3e50",
+        section: "#1abc9c"
       }
     },
   },
