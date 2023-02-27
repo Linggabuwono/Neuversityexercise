@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         navbar: "#2c3e50",
-        section: "#1abc9c"
+        section: "#1abc9c",
+        hairline: "#2c3e50"
       }
     },
   },
